@@ -34,4 +34,4 @@ The marketing team needs a dashboard that will utilize 2018 data to provide insi
 ## Summary of Findings
  - 73% of the user are male
  - Tuesday morning is the busiest time.
- - Hamilton Park is the busiest station.
+ - Grove st Path is the busiest station.
