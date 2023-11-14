@@ -11,7 +11,7 @@
 
 **Data** - CitiBike Data with over 350000 rows for the year 2018. dataset obtained from the public domain [Citi Bike System Data website](https://citibikenyc.com/system-data).
 
-**Data Cleaning & Analysis** - Excel
+**Data Cleaning & Preparation** - Tableau
 
 **Data Visualization** - Tableau
 
@@ -25,6 +25,11 @@ The marketing team needs a dashboard that will utilize 2018 data to provide insi
 5. The average number of trips for time of day.
 6. The average number of trips for day of week.
 7. The total number of trips per month.
+
+## Dashboard Blueprint
+
+![15789635948259_desing_map_table_vF_Detail](https://github.com/gioves28/Tableau-CitiBike-Dashboard/assets/131261225/5149fe4a-d0b3-4002-93fa-52ec64ab17ab)
+
 
 ## Summary of Findings
  - There are more male employees
