@@ -35,3 +35,7 @@ The marketing team needs a dashboard that will utilize 2018 data to provide insi
  - 73% of the user are male
  - Tuesday morning is the busiest time.
  - Grove st Path is the busiest station.
+ - 10 age groups were created from 20 to 65 using an interval of 5. Many users were between 25-30 followed by 35-40 while the smallest group was 60-65. Males had the highest number of trips during 2018 with 257,150.
+ - The smallest average of trips per time is after midnight and the highest average is during morning and evening peak periods.
+ - The highest average of trips for the day of the week is during the weekday period.
+ - Summer months has the highest number of trips per month.
